@@ -1,2 +1,2 @@
-# lembretes
-Projeto desenvolvido em aula na USJT
+# Projeto de microsserviços (projeto lembrates)
+Projeto desenvolvido na aula de microsserviços na USJ.
